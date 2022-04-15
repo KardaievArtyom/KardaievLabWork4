@@ -1,0 +1,8 @@
+total 9
+-rw-r--r-- 1 Artem 197121 743 Apr 15 11:35 example6.html
+-rw-r--r-- 1 Artem 197121   0 Apr 15 16:21 file_list.txt
+-rw-r--r-- 1 Artem 197121 138 Apr 15 13:27 new_example.html
+-rw-r--r-- 1 Artem 197121 138 Apr 15 13:29 new_example2.html
+-rw-r--r-- 1 Artem 197121 135 Apr 15 13:30 new_example3.html
+-rw-r--r-- 1 Artem 197121 135 Apr 15 13:32 new_example4.html
+-rw-r--r-- 1 Artem 197121 546 Apr 15 13:33 sed_cmd.sed
